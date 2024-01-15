@@ -30,4 +30,4 @@ const PORT = process.env.PORT || 8000;
 
 Connection();
 
-app.listen(PORT, () => console.log(`Server started on PORT ${PORT}`));
+app.listen(PORT, () => console.log(`Server Started on PORT ${PORT}`));
